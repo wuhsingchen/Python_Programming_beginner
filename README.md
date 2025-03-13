@@ -1,4 +1,4 @@
-# Python_Ptogramming_beginner
+# Python_Programming_beginner
 
 
 ### Python courses
