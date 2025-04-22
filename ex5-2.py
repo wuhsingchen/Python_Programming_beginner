@@ -1,0 +1,5 @@
+x = int(input("please input a num :"))
+y = int(input("please input a num :"))
+print("x = ",x)
+print("y = ",y)
+print("x + y =",x+y)
